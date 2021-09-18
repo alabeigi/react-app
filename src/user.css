@@ -1,0 +1,17 @@
+.user-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+ul {
+  border-radius: 20px;
+  width: 80%;
+}
+li {
+  list-style: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,31 @@
+header {
+  font-size: 30px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+header button {
+  font-size: 35px;
+  background: pink;
+  border: 0px;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+header button:hover {
+  background: rgba(224, 106, 199, 0.8);
+  border: 1px solid black;
+
+  font-size: 35px;
+
+  border-radius: 25px;
+  padding: 20px;
+}
+body {
+  background: url("./ervo-rocks-Zam8TvEgN5o-unsplash.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+}
